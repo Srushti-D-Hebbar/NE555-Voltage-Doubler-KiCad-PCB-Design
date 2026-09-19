@@ -119,10 +119,9 @@ Possible improvements for future iterations include:
 ## Author
 
 **Srushti D**
+[GitHub](https://github.com/Srushti-D-Hebbar)
 
 ---
 ## License
 
-This project is licensed under the **MIT License**.
-
-See the `LICENSE` file for details.
+This project is licensed under the MIT License — see the [LICENSE](LICENSE) file for details.
